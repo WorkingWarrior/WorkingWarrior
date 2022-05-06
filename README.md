@@ -2,13 +2,12 @@
 
 I'm Sölve Svartskogen. Nice to see you here. I'm a developer, electronics engineer, translator and a handyman.
 
-- 🔭 I’m currently working on private project in .NET Core
+- 🔭 I’m currently working on private project in .NET Core 5/6
 - 🌱 I’m currently learning how to work efficiently in stressing conditions
 
 ### Languages and Tools:
 <div style="text-align: center">
 <img alt="C" title="C" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png?s=26" />
-<img alt="C++" title="C++" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img alt="C#" title="C#" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img alt=".NET" title=".NET" width="48px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
 <img alt="Go" title="Go" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
